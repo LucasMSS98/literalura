@@ -44,9 +44,9 @@ public class Principal {
                     4) Listar todos os autores
                     5) Listar autores vivos em determinado ano
                     6) Listar livros por idiomas
-                    7) Exibe total de downloads
-                    8) Lista o top 3 livros mais baixados
-                    9) Busca autor pelo nome
+                    7) Exibir total de downloads
+                    8) Listar o top 10 livros mais baixados
+                    9) Buscar autor pelo nome
                     10) Calcular idade dos autores
                     
                     0) Sair
